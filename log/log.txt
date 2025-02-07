@@ -1,0 +1,19 @@
+2025-02-05 15:22:45,736 - Starting folder synchronization...
+2025-02-05 15:22:45,740 - Synchronization completed.
+2025-02-05 15:22:55,741 - Synchronization completed.
+2025-02-05 16:20:02,496 - Starting folder synchronization...
+2025-02-05 16:20:02,498 - Created directory: ./replica\teste
+2025-02-05 16:20:02,499 - Synchronization completed.
+2025-02-05 16:20:05,500 - Synchronization completed.
+2025-02-05 16:20:08,502 - Synchronization completed.
+2025-02-05 16:20:11,508 - Removed directory: ./replica\teste\New folder
+2025-02-05 16:20:11,508 - Synchronization completed.
+2025-02-05 16:20:14,510 - Synchronization completed.
+2025-02-05 16:20:17,511 - Synchronization completed.
+2025-02-05 16:20:20,513 - Synchronization completed.
+2025-02-05 16:20:23,516 - Created directory: ./replica\teste\testeeeeeeeeeeeeeee
+2025-02-05 16:20:23,517 - Synchronization completed.
+2025-02-05 16:20:26,517 - Synchronization completed.
+2025-02-05 16:20:29,519 - Synchronization completed.
+2025-02-05 16:20:32,521 - Synchronization completed.
+2025-02-05 16:20:35,522 - Synchronization completed.
