@@ -73,9 +73,7 @@ To test the program:
 2. Modify files between synchronization intervals to observe behavior.
 3. Check the log file for detailed operation reports.
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
-For issues or suggestions, please create a GitHub issue or reach out at <contact_email>.
+For issues or suggestions, please create a GitHub issue.
 
